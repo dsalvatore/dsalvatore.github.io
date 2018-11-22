@@ -8,4 +8,4 @@ Well, there we go, my first post! Honestly, at this point I am just coping codes
 I well know more about building personal websites. 
 
 Here is a pic! For experimental purpose...
-![My first pic](/assets/my first pic.jpg)
+![My first pic](/assets/340618.jpg)
